@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R\\source\\repos\\Agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|c:\\users\\r\\source\\repos\\agenda\\agenda\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|solutionrelative:agenda\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|c:\\users\\r\\source\\repos\\agenda\\agenda\\views\\tarefapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|solutionrelative:agenda\\views\\tarefapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|c:\\users\\r\\source\\repos\\agenda\\agenda\\views\\tarefapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|solutionrelative:agenda\\views\\tarefapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|c:\\users\\r\\source\\repos\\agenda\\agenda\\data\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|solutionrelative:agenda\\data\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|c:\\users\\r\\source\\repos\\agenda\\agenda\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|solutionrelative:agenda\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|c:\\users\\r\\source\\repos\\agenda\\agenda\\data\\tarefadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|solutionrelative:agenda\\data\\tarefadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|c:\\users\\r\\source\\repos\\agenda\\agenda\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|solutionrelative:agenda\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|c:\\users\\r\\source\\repos\\agenda\\agenda\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|solutionrelative:agenda\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|c:\\users\\r\\source\\repos\\agenda\\agenda\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{659BC4DC-8ED9-4B3E-9623-7B841B624A9D}|Agenda\\Agenda.csproj|solutionrelative:agenda\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarefaDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Data\\TarefaDatabase.cs",
+              "RelativeDocumentMoniker": "Agenda\\Data\\TarefaDatabase.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Data\\TarefaDatabase.cs",
+              "RelativeToolTip": "Agenda\\Data\\TarefaDatabase.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:25:00.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Data\\TarefaController.cs",
+              "RelativeDocumentMoniker": "Agenda\\Data\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Data\\TarefaController.cs",
+              "RelativeToolTip": "Agenda\\Data\\TarefaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:32:09.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Views\\TarefaPage.xaml",
+              "RelativeDocumentMoniker": "Agenda\\Views\\TarefaPage.xaml",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Views\\TarefaPage.xaml",
+              "RelativeToolTip": "Agenda\\Views\\TarefaPage.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T19:38:22.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Views\\TarefaPage.xaml.cs",
+              "RelativeDocumentMoniker": "Agenda\\Views\\TarefaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Views\\TarefaPage.xaml.cs",
+              "RelativeToolTip": "Agenda\\Views\\TarefaPage.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwFkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:43:14.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Agenda\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\MainPage.xaml.cs",
+              "RelativeToolTip": "Agenda\\MainPage.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwHMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:58:48.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Agenda\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\MainPage.xaml",
+              "RelativeToolTip": "Agenda\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T20:58:45.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Agenda\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\Models\\Tarefa.cs",
+              "RelativeToolTip": "Agenda\\Models\\Tarefa.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:59.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Agenda\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\App.xaml.cs",
+              "RelativeToolTip": "Agenda\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:26:04.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\App.xaml",
+              "RelativeDocumentMoniker": "Agenda\\App.xaml",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\App.xaml",
+              "RelativeToolTip": "Agenda\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T18:27:45.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

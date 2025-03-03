@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Agenda.Views.TarefaPage"
+             Title="TarefaPage"
+             BackgroundColor="#A9A9A9">
+
+
+    <VerticalStackLayout Padding="20" Spacing="10">
+
+        <!-- Botões de Ação -->
+        <HorizontalStackLayout Spacing="15" HorizontalOptions="Center">
+            <Button Text="Excluir" 
+                 BackgroundColor="Red"
+                 TextColor="White"
+                 Clicked="ExcluirButton_Clicked" />
+            <Button Text="Editar" 
+                 BackgroundColor="Green"
+                 TextColor="White"
+                 Clicked="EditarButton_Clicked" />
+            <Button Text="Limpar" 
+                 BackgroundColor="#D3D3D3"
+                 TextColor="Black"
+                 Clicked="LimparButton_Clicked" />
+
+        </HorizontalStackLayout>
+
+        <!-- Campo Título -->
+        <Entry x:Name="TituloEntry"
+               Placeholder="Digite o título"
+               FontSize="18"
+               HorizontalOptions="FillAndExpand" />
+
+        <!-- Campo Data (não editável) //Text="{Binding DataAtual}-->
+        <Label x:Name="DataLabel"
+               FontSize="16"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="Center"
+               IsVisible="True"/>
+
+      
+
+        <!-- Campo Descrição -->
+        <Editor x:Name="DescricaoEditor"
+                Placeholder="Digite a descrição"
+                HeightRequest="150"
+                FontSize="16"
+                AutoSize="TextChanges"
+                HorizontalOptions="FillAndExpand" />
+
+
+        <!-- Salvar -->
+        <Button Text="Salvar"
+               BackgroundColor="Green"
+               TextColor="White"
+               Clicked="SalvarButton_Clicked"
+               HorizontalOptions="Fill"
+               Padding="10"               
+               HeightRequest="50"/>
+
+    </VerticalStackLayout>
+
+    
+
+
+</ContentPage>

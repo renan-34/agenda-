@@ -1,0 +1,8 @@
+C:\Users\R\source\repos\Agenda\Agenda\wwwroot\index.html
+C:\Users\R\source\repos\Agenda\Agenda\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\R\source\repos\Agenda\Agenda\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\R\source\repos\Agenda\Agenda\wwwroot\css\app.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html

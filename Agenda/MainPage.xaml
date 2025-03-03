@@ -1,0 +1,28 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Agenda.MainPage"
+             BackgroundColor="#D3D3D3">
+    <VerticalStackLayout Padding="20" Spacing="10" >
+
+        <!-- Barra de navegação para avançar ou retroceder no calendário -->
+        <HorizontalStackLayout HorizontalOptions="CenterAndExpand" Spacing="20" >
+            <Button Text="←" Clicked="OnAnteriorClicked" BorderColor="Black" BackgroundColor="Aquamarine" />
+            <Label Text="Selecione um dia" FontSize="20" HorizontalOptions="Center"/>
+            <Button Text="→" Clicked="OnProximoClicked" BorderColor="Black" BackgroundColor="Aquamarine" />
+        </HorizontalStackLayout>
+
+        <!-- Lista de dias do calendário -->
+        <CollectionView ItemsSource="{Binding Dias}" SelectionMode="None" >
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Button Text="{Binding TextoBotao}"
+                            BackgroundColor="{Binding CorFundo}"
+                            TextColor="{Binding CorTexto}"
+                            BorderColor="Black"
+                            BorderWidth="2"
+                            Margin="0,12,0,12" Clicked="Button_Clicked"/>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>

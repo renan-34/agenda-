@@ -1,0 +1,2062 @@
+{
+  "Version": 1,
+  "Hash": "DWemPfePnPqtqyGr911BLK0B4ESd7acuHkFFHqZukqM=",
+  "Source": "Agenda",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Agenda\\wwwroot",
+      "Source": "Agenda",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1itnsuzvs1-zd4z1g9ala.gz",
+      "SourceId": "Agenda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=zd4z1g9ala}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4v1k8lrg4e",
+      "Integrity": "cHLxHhf1tnFdXFrKzfeo69bYxOqVFKwUOeNUZA0MMqU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1kwykn9p52-gz3g3jf78l.gz",
+      "SourceId": "Agenda",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "Agenda#[.{fingerprint=gz3g3jf78l}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Agenda.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y1rd5tv5du",
+      "Integrity": "ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Agenda.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\27b18d7xot-6gzpyzhau4.gz",
+      "SourceId": "Agenda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\8ys1557op3-gz3g3jf78l.gz",
+      "SourceId": "Agenda",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "Agenda#[.{fingerprint=gz3g3jf78l}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Agenda.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y1rd5tv5du",
+      "Integrity": "ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Agenda.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\k8ntjj69bv-8inm30yfxf.gz",
+      "SourceId": "Agenda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wijzmamtzy-e5tk7yf482.gz",
+      "SourceId": "Agenda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9sb0w9jnhl",
+      "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Agenda.styles.css",
+      "SourceId": "Agenda",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "Agenda#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "gz3g3jf78l",
+      "Integrity": "1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Agenda.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Agenda.bundle.scp.css",
+      "SourceId": "Agenda",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "Agenda#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "gz3g3jf78l",
+      "Integrity": "1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Agenda.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\app.css",
+      "SourceId": "Agenda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e5tk7yf482",
+      "Integrity": "bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Agenda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Agenda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\index.html",
+      "SourceId": "Agenda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zd4z1g9ala",
+      "Integrity": "CQ4w0emSAv3Vm9atMppa+BvZw/kmfTYoPZmyrMmLzYM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Agenda.bundle.scp.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\8ys1557op3-gz3g3jf78l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615006150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.bundle.scp.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Agenda.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\8ys1557op3-gz3g3jf78l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.gz3g3jf78l.bundle.scp.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\8ys1557op3-gz3g3jf78l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615006150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gz3g3jf78l"
+        },
+        {
+          "Name": "label",
+          "Value": "Agenda.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.gz3g3jf78l.bundle.scp.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Agenda.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gz3g3jf78l"
+        },
+        {
+          "Name": "label",
+          "Value": "Agenda.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.gz3g3jf78l.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\8ys1557op3-gz3g3jf78l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gz3g3jf78l"
+        },
+        {
+          "Name": "label",
+          "Value": "Agenda.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.gz3g3jf78l.styles.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1kwykn9p52-gz3g3jf78l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615006150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gz3g3jf78l"
+        },
+        {
+          "Name": "label",
+          "Value": "Agenda.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.gz3g3jf78l.styles.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Agenda.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gz3g3jf78l"
+        },
+        {
+          "Name": "label",
+          "Value": "Agenda.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.gz3g3jf78l.styles.css.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1kwykn9p52-gz3g3jf78l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gz3g3jf78l"
+        },
+        {
+          "Name": "label",
+          "Value": "Agenda.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.styles.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1kwykn9p52-gz3g3jf78l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615006150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.styles.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Agenda.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MhL9gzY7ePnLQ6fs8dxO/6WX+B98BLUcGWjra+guvM="
+        }
+      ]
+    },
+    {
+      "Route": "Agenda.styles.css.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1kwykn9p52-gz3g3jf78l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ykwCmzfPQS/HYNjl9wM6g0mVQyOuQ/XDxqWBb5TmFNM="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wijzmamtzy-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wijzmamtzy-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wijzmamtzy-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wijzmamtzy-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\27b18d7xot-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\27b18d7xot-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\27b18d7xot-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\k8ntjj69bv-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\k8ntjj69bv-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\27b18d7xot-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\k8ntjj69bv-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\k8ntjj69bv-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1itnsuzvs1-zd4z1g9ala.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002304147465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cHLxHhf1tnFdXFrKzfeo69bYxOqVFKwUOeNUZA0MMqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CQ4w0emSAv3Vm9atMppa+BvZw/kmfTYoPZmyrMmLzYM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQ4w0emSAv3Vm9atMppa+BvZw/kmfTYoPZmyrMmLzYM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQ4w0emSAv3Vm9atMppa+BvZw/kmfTYoPZmyrMmLzYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQ4w0emSAv3Vm9atMppa+BvZw/kmfTYoPZmyrMmLzYM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1itnsuzvs1-zd4z1g9ala.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cHLxHhf1tnFdXFrKzfeo69bYxOqVFKwUOeNUZA0MMqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cHLxHhf1tnFdXFrKzfeo69bYxOqVFKwUOeNUZA0MMqU="
+        }
+      ]
+    },
+    {
+      "Route": "index.zd4z1g9ala.html",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1itnsuzvs1-zd4z1g9ala.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002304147465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cHLxHhf1tnFdXFrKzfeo69bYxOqVFKwUOeNUZA0MMqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CQ4w0emSAv3Vm9atMppa+BvZw/kmfTYoPZmyrMmLzYM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zd4z1g9ala"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQ4w0emSAv3Vm9atMppa+BvZw/kmfTYoPZmyrMmLzYM="
+        }
+      ]
+    },
+    {
+      "Route": "index.zd4z1g9ala.html",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQ4w0emSAv3Vm9atMppa+BvZw/kmfTYoPZmyrMmLzYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zd4z1g9ala"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQ4w0emSAv3Vm9atMppa+BvZw/kmfTYoPZmyrMmLzYM="
+        }
+      ]
+    },
+    {
+      "Route": "index.zd4z1g9ala.html.gz",
+      "AssetFile": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1itnsuzvs1-zd4z1g9ala.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cHLxHhf1tnFdXFrKzfeo69bYxOqVFKwUOeNUZA0MMqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zd4z1g9ala"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cHLxHhf1tnFdXFrKzfeo69bYxOqVFKwUOeNUZA0MMqU="
+        }
+      ]
+    }
+  ]
+}

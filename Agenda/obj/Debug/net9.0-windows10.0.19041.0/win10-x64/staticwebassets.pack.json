@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Agenda.styles.css",
+      "PackagePath": "staticwebassets\\Agenda.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\R\\source\\repos\\Agenda\\Agenda\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Agenda.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Agenda.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.Agenda.props",
+      "PackagePath": "build\\Agenda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.Agenda.props",
+      "PackagePath": "buildMultiTargeting\\Agenda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.Agenda.props",
+      "PackagePath": "buildTransitive\\Agenda.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
