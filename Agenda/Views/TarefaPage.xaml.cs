@@ -3,6 +3,20 @@ using Agenda.Data;
 
 namespace Agenda.Views;
 
+// -----------------------------
+// ARQUIVO TarefaPage.xaml
+// -----------------------------
+// Interface visual da tela de tarefa.
+// - Campos:
+//   - Entry: campo para o título da tarefa;
+//   - Label: mostra a data (não editável);
+//   - Editor: campo para a descrição da tarefa.
+// - Botões:
+//   - "Excluir": remove a tarefa atual;
+//   - "Editar": libera os campos para edição;
+//   - "Limpar": limpa os campos de texto;
+//   - "Salvar": salva ou atualiza a tarefa.
+
 
 public partial class TarefaPage : ContentPage
 {
@@ -10,7 +24,6 @@ public partial class TarefaPage : ContentPage
     private string data { get; set; }
     private readonly TarefaController _tarefaController;
     Tarefa tarefaAtual { get; set; }
-    //private Tarefa tarefa = new Tarefa();
     public TarefaPage(string textoRecebido)
     {
         InitializeComponent();
@@ -22,14 +35,14 @@ public partial class TarefaPage : ContentPage
         CarregarTarefa();
     }
 
-    // Evento para o botão Excluir
+    // botão Excluir
     private async void ExcluirButton_Clicked(object sender, EventArgs e)
     {
         // Aqui você pode implementar a lógica para excluir a tarefa
         bool confirmacao = await DisplayAlert("Confirmar", "Você tem certeza que deseja excluir?", "Sim", "Não");
         if (confirmacao)
         {
-            // Lógica de exclusão aqui
+            
             _tarefaController.ExcluirTarefa(tarefaAtual);
             TituloEntry.Text = "";
             DescricaoEditor.Text = "";
@@ -44,10 +57,10 @@ public partial class TarefaPage : ContentPage
         DescricaoEditor.Text = "";
     }
 
-    // Evento para o botão Editar
+   
     private void EditarButton_Clicked(object sender, EventArgs e)
     {
-        // Aqui você pode fazer a lógica para editar a tarefa
+        
         // Exemplo: Habilitar campos de edição ou navegar para outra tela de edição
         // TituloEntry.IsEnabled = true;
         //DescricaoEditor.IsEnabled = true;
@@ -59,7 +72,7 @@ public partial class TarefaPage : ContentPage
     {
         string data = DataLabel.Text.Split("(")[0].Trim();
         string titulo = TituloEntry.Text;
-        string descricao = DescricaoEditor.Text;  // DateOnly.ParseExact(dataEntrada, "dd/MM/yyyy", null);
+        string descricao = DescricaoEditor.Text;  
         Tarefa tarefa = new Tarefa(DateOnly.ParseExact(data, "dd/MM/yyyy", null), titulo, descricao);
         await _tarefaController.SalvarTarefa(tarefa);
         DescricaoEditor.IsReadOnly = true;
@@ -69,7 +82,7 @@ public partial class TarefaPage : ContentPage
     private async void CarregarTarefa()
     {
         string dataAuax = DataLabel.Text.Split("(")[0].Trim();
-        tarefaAtual = await _tarefaController.ObterTarefaPorData(DateOnly.ParseExact(dataAuax, "dd/MM/yyyy", null));//(DataLabel.Text.Trim());
+        tarefaAtual = await _tarefaController.ObterTarefaPorData(DateOnly.ParseExact(dataAuax, "dd/MM/yyyy", null));
         if (!(tarefaAtual is null))
         {
             TituloEntry.Text = tarefaAtual.Titulo;

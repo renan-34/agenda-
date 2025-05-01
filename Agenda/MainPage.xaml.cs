@@ -9,8 +9,16 @@ using Agenda.Models;
 using System;
 using System.Threading.Tasks;
 
+// RESUMO DO FUNCIONAMENTO DO APLICATIVO
+// -----------------------------------------
+
+// Este projeto é um aplicativo de agenda desenvolvido com .NET MAUI e SQLite.
+// Ele permite cadastrar, editar, excluir e visualizar tarefas associadas a datas específicas.
+
+
+
 namespace Agenda
-{
+{   
     public partial class MainPage : ContentPage
     {
         protected override async void OnAppearing()
